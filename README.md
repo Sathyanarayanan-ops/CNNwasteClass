@@ -1,4 +1,4 @@
-# CNNwasteClass
+# Smart waste management system using Convolutional Neural Networks 
 
 This project was performed as part of a bigger funded project in SASTRA University, a **smart waste management system**
 
